@@ -32,8 +32,8 @@ Section 3: A First Look at React 1hr 15min
 [x] 10.React vs. Vanilla JavaScript 7min
 [x] 11. What is React? 9min
 [x] 12. Setting Up Our Development Environment 9min
-[ ] 13. Pure React 15min
-[ ] 14. A Quick Look at React's Official Documentation 3min
-[ ] 15. Setting Up a New React Project: The Options 8min
-[ ] 16. Setting Up a Project With Create-React-App 13min
+[x] 13. Pure React 15min
+[x] 14. A Quick Look at React's Official Documentation 3min
+[x] 15. Setting Up a New React Project: The Options 8min
+[x] 16. Setting Up a Project With Create-React-App 13min
 ```
