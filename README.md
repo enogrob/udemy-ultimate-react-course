@@ -36,4 +36,20 @@ Section 3: A First Look at React 1hr 15min
 [x] 14. A Quick Look at React's Official Documentation 3min
 [x] 15. Setting Up a New React Project: The Options 8min
 [x] 16. Setting Up a Project With Create-React-App 13min
+Section 4: Review of Essential Javascript for React 
+[ ] 17. Section Overview (brain://n1c5JIPkF0etpCA0l_S-sg/17SectionOverview) 1min
+[ ] 18. Destructuring Objects and Arrays 11min
+[ ] 19. Rest/Spread Operator 10min
+[ ] 20. Template Literals 5min
+[ ] 21. Ternaries Instead of if/else Statements 6min
+[ ] 22. Arrow Functions 5min
+[ ] 23. Short-Circuiting And Logical Operators: &&, ||, ?? 11min
+[ ] 24. Optional Chaining 7min
+[ ] 25. The Array map Method 9min
+[ ] 26. The Array filter Method 9min
+[ ] 27. The Array reduce Method 7min
+[ ] 28. The Array sort Method 7min
+[ ] 29. Working With Immutable Arrays 11min
+[ ] 30. Asynchronous JavaScript: Promises 8min
+[ ] 31. Asynchronous JavaScript: Async/Await 8min
 ```
