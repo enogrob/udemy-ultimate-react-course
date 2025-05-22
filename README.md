@@ -4,52 +4,55 @@ BSd EE, MSd CE
 Solution Integrator Experienced - Certified by Ericsson
 ```
 
-# Udemy project
+# Udemy The Ultimate React Course
 
 ![udemy image](images/udemy.png)
 
 **About **
 
-Learn everything you need to about the subject of this `Udemy` project.
+The Ultimate React Course 2024 is designed for all levels, taking you from beginner to an advanced, confident React developer. You'll learn to build 10+ beautiful projects, including real-world applications, using modern tools like Next.js, Redux, and Tailwind CSS. Key concepts include advanced state management, performance optimization, and understanding the inner workings of React. A basic understanding of JavaScript is required, and no prior React experience is necessary. The course also includes challenges and practice projects to solidify your skills.
 
 [Homepage](https://www.udemy.com/course/the-ultimate-react-course/learn/lecture/37351178#overview)
 
-## Topics
+## Contents
 
-```
-Section1: Welcome, Wellcome, Welcome!
-[x] 1. Course Roadmap and Projects 3min
-[x] 2. Building Our First React App! 19min
-[x] 3. Watch Before You Start! 5min
-[x] 4. Read Before You Start! 1min
-[x] 5. Downloading Course Material 4min
-Section 2: PART 1: REACT FUNDAMENTALS
-[x] 6. Introduction to Part 1 1min
-[x] 7. Useful Resources for Part 1 1min
-Section 3: A First Look at React 1hr 15min
-[x] 8. Section Overview 1min
-[x] 9. Why Do Front-End Frameworks Exist? 10min
-[x] 10.React vs. Vanilla JavaScript 7min
-[x] 11. What is React? 9min
-[x] 12. Setting Up Our Development Environment 9min
-[x] 13. Pure React 15min
-[x] 14. A Quick Look at React's Official Documentation 3min
-[x] 15. Setting Up a New React Project: The Options 8min
-[x] 16. Setting Up a Project With Create-React-App 13min
-Section 4: Review of Essential Javascript for React 
-[ ] 17. Section Overview (brain://n1c5JIPkF0etpCA0l_S-sg/17SectionOverview) 1min
-[ ] 18. Destructuring Objects and Arrays 11min
-[ ] 19. Rest/Spread Operator 10min
-[ ] 20. Template Literals 5min
-[ ] 21. Ternaries Instead of if/else Statements 6min
-[ ] 22. Arrow Functions 5min
-[ ] 23. Short-Circuiting And Logical Operators: &&, ||, ?? 11min
-[ ] 24. Optional Chaining 7min
-[ ] 25. The Array map Method 9min
-[ ] 26. The Array filter Method 9min
-[ ] 27. The Array reduce Method 7min
-[ ] 28. The Array sort Method 7min
-[ ] 29. Working With Immutable Arrays 11min
-[ ] 30. Asynchronous JavaScript: Promises 8min
-[ ] 31. Asynchronous JavaScript: Async/Await 8min
-```
++ **Section 1: Welcome, Welcome, Welcome!**
+- **Section 2: Part 1: React Fundamentals**
+- **Section 3: First Look at React**
+- **Section 4: Review of Essential Javascript for React**
+- **Section 5: Working with Components, Props and JSX**
+- **Section 6: State, Events, and Forms: Interactive Components**
+- **Section 7: Thinking in React: State Management**
+- **Section 8:Practice Project: Eat-N-Split**
+- **Section 9: Part 2: Intermediate React**
+- **Section 10: Thinking in React: Components, Composition, and Reusability**
+- **Section 11: How React Works Behind the Scenes**
+- **Section 12: Effects and Data Fetching**
+- **Section 13: Custom Hooks, Refs, and More State**
+- **Section 14: React Before Hooks: Class-Based React**
+- **Section 15: Part 3: Advanced React Redux**
+- **Section 16: The Advanced useReducer Hook**
+- **Section 17: React Router: Building Single Page Applications (SPA)**
+- **Section 18: Advancec State Management: The Context API**
+- **Section 19: Performance Optimization and Advanced useEffect**
+- **Section 20: Redux and Modern Redux Toolkit (with Thunks)**
+- **Section 21: Part 4: Professional React Development**
+- **Section 22: React Router with Data Loading (v6.4+)**
+- **Section 23: Tailwind CSS Crash Course: Styling the App**
+- **Section 24: Adding Redux and Advanced React Router**
+- **Section 25: Setting Up Our Biggest Project + Styled Components**
+- **Section 26: Supabase Crash Course: Building a Back-End!**
+- **Section 27: React Query: Managing Remote State**
+- **Section 28: Advanced React Patterns**
+- **Section 29: Implementing More Features: Authentication, Dark Mode**
+- **Section 30: Deployment with Netlify and Vercel**
+- **Section 31: Part 5: Fullstack React with Next.js**
+- **Section 32: Overview of Next.js with App Router**
+- **Section 33: Starting to Build the "Wild Oasis" Website**
+- **Section 34: Data Fetching, Caching, and Redering**
+- **Section 35: Client and Server Interactions**
+- **Section 36: Authentication with NextAuth (Auth.js)**
+- **Section 37: Mutations with Server Actions + Modern React Hooks**
+- **Section 38: Deployment with Vercel**
+- **Section 39: Legacy Next.js: The "Pages" Router**
+- **Section 40: The End!**
