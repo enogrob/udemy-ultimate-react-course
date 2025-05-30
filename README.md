@@ -14,10 +14,16 @@ The Ultimate React Course 2024 is designed for all levels, taking you from begin
 
 [Homepage](https://www.udemy.com/course/the-ultimate-react-course/learn/lecture/37351178#overview)
 
-## Contents
-
+**Content**
 + **Section 1: Welcome, Welcome, Welcome!**
+	+ 1.Course Roadmap and Projects
+	+ 2.Building Our First React App!
+	+ 3.Watch Before You Start!
+	+ 4.Read Before You Start!
+	+ 5.Downloading Course Material
 - **Section 2: Part 1: React Fundamentals**
+	+ 6.Introduction to Part 1
+	+ 7.Useful Resources for Part 1
 - **Section 3: First Look at React**
 - **Section 4: Review of Essential Javascript for React**
 - **Section 5: Working with Components, Props and JSX**
@@ -56,3 +62,4 @@ The Ultimate React Course 2024 is designed for all levels, taking you from begin
 - **Section 38: Deployment with Vercel**
 - **Section 39: Legacy Next.js: The "Pages" Router**
 - **Section 40: The End!**
+
