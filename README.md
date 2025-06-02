@@ -15,6 +15,7 @@ The Ultimate React Course 2024 is designed for all levels, taking you from begin
 [Homepage](https://www.udemy.com/course/the-ultimate-react-course/learn/lecture/37351178#overview)
 
 **Content**
+
 + **Section 1: Welcome, Welcome, Welcome!**
 	+ 1.Course Roadmap and Projects
 	+ 2.Building Our First React App!
@@ -25,6 +26,15 @@ The Ultimate React Course 2024 is designed for all levels, taking you from begin
 	+ 6.Introduction to Part 1
 	+ 7.Useful Resources for Part 1
 - **Section 3: First Look at React**
+	+ 8.Section Overview
+	+ 9.Why Do Front-End Frameworks Exist?
+	- 10.React vs. Vanilla JavaScript
+	- 11.What is React?
+	- 12.Setting Up Our Development Environment
+	- 13.Pure React
+	- 14.A Quick Look at React's Official Documentation
+	- 15.Setting Up a New React Project: The Options
+	- 16.Setting Up a Project With Create-React-App
 - **Section 4: Review of Essential Javascript for React**
 - **Section 5: Working with Components, Props and JSX**
 - **Section 6: State, Events, and Forms: Interactive Components**
