@@ -28,7 +28,7 @@ The Ultimate React Course 2024 is designed for all levels, taking you from begin
 - **Section 3: First Look at React**
 	+ 8.Section Overview
 	+ 9.Why Do Front-End Frameworks Exist?
-	- 10.React vs. Vanilla JavaScript
+	+ 10.React vs. Vanilla JavaScript
 	- 11.What is React?
 	- 12.Setting Up Our Development Environment
 	- 13.Pure React
